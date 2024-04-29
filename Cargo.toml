@@ -1,0 +1,8 @@
+[package]
+name = "ChatProgram"
+version = "0.1.0"
+authors = ["BrieAnn Haberl & Tyler Coffie"]
+edition = "2018"
+
+[dependencies]
+termion = "1.5.6"
